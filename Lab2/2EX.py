@@ -12,7 +12,6 @@ class Employee():
         self.name = name
         self.salary = salary
 
-
     def up(self):
         """
         Raises the salary by 100
@@ -21,7 +20,7 @@ class Employee():
 
     def print(self):
         """
-        Prints "Emloyee 'Name', salary 'Salary'"
+        Prints "Employee 'Name', salary 'Salary'"
         """
         print(f"Emloyee {self.name}, salary {self.salary}")
 
