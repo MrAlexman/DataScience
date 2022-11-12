@@ -22,7 +22,7 @@ class Employee():
         """
         Prints "Employee 'Name', salary 'Salary'"
         """
-        print(f"Emloyee {self.name}, salary {self.salary}")
+        print(f"Employee {self.name}, salary {self.salary}")
 
 
 Vasilii = Employee("Vasilii Ivanovich", 4000)
